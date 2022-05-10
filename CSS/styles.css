@@ -1,0 +1,116 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #383A59;
+    color: #F8F8F2;;
+}
+
+/* Empieza el styles.css de la pagina-a*/
+.header-a{
+    background-color: #282A36;
+    margin: 0px 0px 10px 0px;
+}
+
+.myname-a{
+    background-color: #282A36;
+    margin: 0px 150px 0px 1000px;
+    
+}
+
+.days{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    height: 400px;
+    width: 300px;
+    padding:10px 0px 0px 100px;
+    float: left;
+    margin: 0px 0px 0px 50px;
+    text-align: left;  
+}
+
+.table-a{
+    border-radius: 5px;
+    border: 2px solid #BD93F9;
+    border-collapse:collapse;
+    text-align: center;
+    margin-left: 590px;
+    margin-right: 10px;
+    padding: 25px;
+}
+
+td,
+th{
+    border-radius: 5px;
+    border: 2px solid #BD93F9;
+    padding: .7rem;
+}
+
+.cuadro-a{
+    border-radius: 5px;
+    border: 2px solid #BD93F9;
+    margin-left: 590px;
+    margin-right: 10px;
+    margin-top: 10px;
+
+}
+
+.quiz{
+    margin: 10px 10px 15px 5px;
+}
+
+footer{
+    background-color:#282A36;
+    font-size: larger;
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+    padding: 10px;
+
+}
+
+/* Empieza el diseño de styles.css de pagina-b*/
+.header-b{
+    background-color:#282A36;
+    margin: auto;
+}
+
+.span{
+    margin: 0px 0px 0px 1100px;
+}
+
+.form1{
+    padding: 50px;
+    text-align: center;
+    height: 500px;
+    width: 900px;
+    border-radius: 5px;
+    border: 2px solid #BD93F9;
+    float: right;
+    margin: 25px 0px 0px 0px;
+
+}
+
+.form2{
+    padding: 50px;
+    text-align: center;
+    height: 500px;
+    width: 350px;
+    border-radius: 5px;
+    border: 2px solid #BD93F9;
+    margin: 25px 0px 0px 00px;
+}
+
+.inputs{
+    margin: 15px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid #BD93F9;
+
+}
+
+
+
+
+
